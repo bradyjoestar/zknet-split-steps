@@ -13,5 +13,3 @@ cd zkevm-node && git checkout wb/develop && cd ..
 
 ## change zkevm-contact's package.json for replacing zkevm-commonjs
 
-cd zkevm-contracts && npm i
-cd ../../
