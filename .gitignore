@@ -1,2 +1,6 @@
 #IDE
 .idea
+
+splitdemo/projects/zkevm-commonjs
+splitdemo/projects/zkevm-node
+splitdemo/projects/zkevm-contracts
